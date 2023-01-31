@@ -1,0 +1,129 @@
+[   
+    {
+        "title": "What does HTML stand for?",
+        "answer_1":"Hyper Text Markup Language",
+        "answer_2":"Home Tool Markup Language",
+        "answer_3":"Hyperlinks and Text Markup Language",
+        "answer_4":"Hyperlinks  Text Markup Language",
+        "right_answer":"Hyper Text Markup Language"
+ 
+     },
+     {
+        "title": "Who is making the Web standards?",
+        "answer_1":"Microsoft",
+        "answer_2":"The World Wide Web Consortium",
+        "answer_3":"Google",
+        "answer_4":"Mozilla",
+        "right_answer":"The World Wide Web Consortium"
+ 
+     },
+     {
+        "title": "Choose the correct HTML element for the largest heading : ",
+        "answer_1":"<h1>",
+        "answer_2":"<head>",
+        "answer_3":"<heading>",
+        "answer_4":"<h6>",
+        "right_answer":"<h1>"
+ 
+     },
+     {
+        "title": "Choose the correct HTML element to define important text ",
+        "answer_1":"<b>",
+        "answer_2":"<strong>",
+        "answer_3":"<important>",
+        "answer_4":"<i>",
+        "right_answer":"<strong>"
+ 
+     },
+     {
+        "title": "Choose the correct HTML element to define emphasized text",
+        "answer_1":"<em>",
+        "answer_2":"<italic>",
+        "answer_3":"<i>",
+        "right_answer":"<em>"
+ 
+     },
+
+    {
+       "title": "Why We Use <br> Element",
+       "answer_1":"to make Text bold",
+       "answer_2":"To Make Text Italic",
+       "answer_3":"To Make Add Breakline",
+       "answer_4":"To Create Horizontal Line",
+       "right_answer":"To Make Add Breakline"
+
+    },
+    {
+        "title": "Is <image> Element Has Attribute href",
+        "answer_1":"Yes",
+        "answer_2":"No Its For Anchor Tag <a>",
+        "answer_3":"All Elements Has This Attribute",
+        "answer_4":"Answer 1 and 3 Is Right",
+        "right_answer":"No Its For Anchor Tag <a>"
+ 
+     },
+     {
+        "title": "How Can We Make Element Text Bold",
+        "answer_1":"Putting It Inside <b> Tag",
+        "answer_2":"Putting It Inside <strong> Tag",
+        "answer_3":"Customizing it With Font-Weight Property In Css",
+        "answer_4":"All Answers Is right",
+        "right_answer":"All Answers Is right"
+ 
+     },
+     {
+      "title": "What Is The Right Hierarchy For Creating Part Of Page",
+      "answer_1":"<h2> then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+      "answer_2":"<h1> then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+      "answer_3":"<h2> then <p> Then <h1> Then <p> Then <h1> Then <p> Then <img>",
+      "answer_4":"All Solutions Is Wrong",
+      "right_answer":"All Solutions Is Wrong"
+
+     },
+     
+     {
+        "title": "How Can We Use External Page Inside Our Html Page",
+        "answer_1":"By Using Include In html ",
+        "answer_2":"By Using Load In html ",
+        "answer_3":"By Using Iframe Tag",
+        "answer_4":"All Solutions Is Wrong",
+        "right_answer":"By Using Iframe Tag"
+ 
+     },
+     {
+      "title": "What Is the Tag That Not Exists In Html",
+      "answer_1":"<object> ",
+      "answer_2":"<basefont>",
+      "answer_3":"<abbr>",
+      "answer_4":"All Tags Is Exists in Html",
+      "right_answer":"All Tags Is Exists in Html"
+
+     },
+     {
+      "title": "How We Specify Document Tyoe Of Html5 Page",
+      "answer_1":"<DOCTYPE html>",
+      "answer_2":"<DOCTYPE html5>",
+      "answer_3":"<!DOCTYPE html5>",
+      "answer_4":"<!DOCTYPE html>",
+      "right_answer":"<!DOCTYPE html>"
+
+     },
+     {
+        "title": "What Is The Element Thats not Exists in Html5 Semantics",
+        "answer_1":"<article>",
+        "answer_2":"<section>",
+        "answer_3":"<blockquote>",
+        "answer_4":"<aside>",
+        "right_answer":"<blockquote>"
+ 
+     },
+     {
+        "title": "In HTML Can We Use This Way To Add Attributes",
+        "answer_1":"<div class='class-name'>",
+        "answer_2":"<div class=class-name>",
+        "answer_3":"<div class=\"class-name\">",
+        "answer_4":"All Is Right",
+        "right_answer":"All Is Right"
+ 
+     }
+]
